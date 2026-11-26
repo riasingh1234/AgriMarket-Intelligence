@@ -1,0 +1,8 @@
+column,dtype,missing_count,missing_percent,unique_non_null
+month,datetime64[ns],0,0.0,95
+commodity_id,int64,0,0.0,459
+commodity,string,0,0.0,459
+group,string,0,0.0,16
+state,string,0,0.0,32
+arrivals_t,float64,47298,22.93,79435
+price_rs_qtl,float64,47298,22.93,132460
